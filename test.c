@@ -1,9 +1,9 @@
 main()
 {
-	int a;
+	int d;
 	int b;
 	
-	int c= a+b;
+	int c= a+d;
 	
 	}
 	
