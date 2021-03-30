@@ -5,6 +5,7 @@ Test2
 
 @20210330 add 1st modification
 
+<<<<<<< HEAD
 add modi to master branch
 
 add 1st mofi from Test2 branch
@@ -13,3 +14,6 @@ add 2nd mofi from Test2 branch
 
 add 3rd mofi from Test2 branch
 
+=======
+add modi to master branch
+>>>>>>> parent of 8b9ee07 (Update TestFile.txt)
