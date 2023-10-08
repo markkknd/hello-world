@@ -21,3 +21,6 @@ add modi to master branch
 =======
 add modi to master branch
 >>>>>>> parent of 143dfc7 (Merge pull request #5 from markkknd/Test2)
+
+
+20231008 matebookXpro  ubuntu add
